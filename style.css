@@ -71,6 +71,7 @@ header {
     margin: -10px -10px;
     height: 400px;
     background-position: center;
+    background-repeat: no-repeat;
 
 }
 
